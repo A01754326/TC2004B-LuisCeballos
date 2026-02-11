@@ -1,0 +1,21 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Luis Enrique Ceballos Alexander
+Matrícula: A01754326
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Elegi a los profes ya que me quedaban con mi horario y en lo personal he tenido mejor experiencia con profes que con maestras. 
+
+¿Qué espero aprender?
+Conocer los diferentes modelos y saber cuando usarlo para que cosa, que me de esa agilidad mental para identificar cada situación y tambien el poder interpretar lo que me de cada modelo
+
+Herramientas que ya conozco:
+- Python, C++, R
+- GitHub ya lo habia usado antes pero no desde la terminal
+- Visual Studio Code (codespaces)
+
+Herramientas nuevas para mí:
+- Trabajar desde la terminal (sin interfaz)
+- En general casi todo, muchas cosas sé solo lo básico
