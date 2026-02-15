@@ -26,6 +26,23 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Ambientes virtuales
+venv/
+env/
+tc2004b_env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
